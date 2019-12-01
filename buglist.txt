@@ -1,0 +1,4 @@
+bugs in the program:
+1. The method peekFront returns the back of the list and not the front of the list.
+2. The method dequeue does not return the value at the front like it says it should. It is declared void so nothing is returned.
+3. The method dequeue removes the back of the queue and not the front of the queue like it should.
